@@ -10,7 +10,7 @@ SmartBlocks makes it easy to reuse text in a dynamic way in Roam. It can be comp
 
 - **Commands:** Commands are instructions that make your SmartBlock workflow do amazing and dynamic things.
 
-- **Trigger:** The keystrokes you type so that the workflow is run. The default keystroke is `jj`
+- **Trigger:** The keystrokes you type so that the workflow is run. The default keystroke is `jj`.
 
 
 ## Table of Contents
@@ -43,10 +43,8 @@ The following steps dive into all the features SmartBlocks has to offer in incre
 
 ## Migration
 
-This extension was inspired by and acts as version 2 of the original smartblocks module in the [Roam42](https://roamjs.com/extenions/roam42) extension. It will soon replace the current smartblocks module in Roam42. For a list of all the non-backward compatible changes from V1 to V2, check out out [Migration Guide](/extensions/smartblocks/migration_guide).
+This extension was inspired by and acts as version 2 of the original SmartBlocks module in the [Roam42](https://roamjs.com/extensions/roam42) extension. It will soon replace the current SmartBlocks module in Roam42. For a list of all the non-backward compatible changes from V1 to V2, check out the [Migration Guide](https://roamjs.com/extensions/smartblocks/migration_guide).
 
 ## Support
 
-There is an active community at [roamresearch.slack.com](https://join.slack.com/t/roamresearch/shared_invite/zt-ni1vw9yf-HzeWr05ZJBt55j_zfddPsw) channels `#roam42` and `#roamjs` discussing and building SmartBlocks. Stop by if you need help or want to share your ideas.
-
-[Slack Invite Here](https://join.slack.com/t/roamresearch/shared_invite/zt-ni1vw9yf-HzeWr05ZJBt55j_zfddPsw) 
+There is an active community at [roamresearch.slack.com](https://join.slack.com/t/roamresearch/shared_invite/zt-xy0pd90x-c0KDkgh1BeLKyi0iUlJ1CA) channels [`#roam42`](https://roamresearch.slack.com/archives/C0190JLGDUJ) and [`#roam-js`](https://roamresearch.slack.com/archives/C016N2B66JU) discussing and building SmartBlocks. Stop by if you need help or want to share your ideas.
